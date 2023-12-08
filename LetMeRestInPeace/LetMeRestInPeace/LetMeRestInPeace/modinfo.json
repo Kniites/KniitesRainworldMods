@@ -1,0 +1,12 @@
+{
+  "id": "kniites.letmerestinpeace",
+  "name": "Let me rest in peace",
+  "version": "0.1.0",
+  "target_game_version": "v1.9",
+  "authors": "Kniites, iofsauron",
+  "description": "Removes the UI for the tracked collectibles in the sleep screens.",
+  "requirements": [],
+  "requirements_names": [],
+  "tags": ["Accessibility", "Tools"],
+  "checksum_override_version": false
+}
